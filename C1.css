@@ -45,6 +45,7 @@ iframe.google-map {
 .card-btn {
   border-radius: 25px;
   cursor: pointer;
+  padding:  4px;
 }
 
 /*.Nav {
